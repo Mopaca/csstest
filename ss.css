@@ -1,3 +1,3 @@
-body {background: rgb(255, 226, 131); color: salmon;font-family: "나눔스퀘어OTF",'Courier New', Courier, monospace; line-height: 15pt;}
+body {background: rgb(255, 226, 131); color: salmon;font-family: "나눔스퀘어OTF",sans-serif; line-height: 15pt;}
 nav {font-weight: lighter}
 ul, p {width: 400px; padding: 10px; border: 1.5px solid yellowgreen; background: palegoldenrod;}
